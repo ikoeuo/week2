@@ -1,3 +1,3 @@
 import profile
 
-print(profile.name)
+degree = 'Cloud Computing'

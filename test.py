@@ -1,6 +1,6 @@
-print('Hello wrld')
-print('Hello wrld 2')
-print('Hello wrld 3')
-x = 23
-y = x + 23
-print(x, y)
+import profile as p
+import testprofile as t
+
+print(p.name)
+print(p.phone)
+print(t.degree)
